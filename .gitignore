@@ -1,0 +1,5 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/EstructurasDatos/.vs/EstructurasDatos/v16/Server/sqlite3
