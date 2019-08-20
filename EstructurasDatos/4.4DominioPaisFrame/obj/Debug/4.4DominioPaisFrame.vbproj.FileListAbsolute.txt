@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\bin\Debug\4.4DominioPaisFrame.exe.config
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\bin\Debug\4.4DominioPaisFrame.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\bin\Debug\4.4DominioPaisFrame.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\bin\Debug\4.4DominioPaisFrame.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\4.4DominioPaisFrame.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\_4._4DominioPaisFrame.Resources.resources
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\4.4DominioPaisFrame.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\4.4DominioPaisFrame.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\4.4DominioPaisFrame.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\4.4DominioPaisFrame.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.4DominioPaisFrame\obj\Debug\4.4DominioPaisFrame.pdb

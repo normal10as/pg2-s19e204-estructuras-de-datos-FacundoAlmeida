@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\bin\Debug\4.8Zeverla.exe.config
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\bin\Debug\4.8Zeverla.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\bin\Debug\4.8Zeverla.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\bin\Debug\4.8Zeverla.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\4.8Zeverla.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\_4._8Zeverla.Resources.resources
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\4.8Zeverla.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\4.8Zeverla.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\4.8Zeverla.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\4.8Zeverla.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.8Zeverla\obj\Debug\4.8Zeverla.pdb

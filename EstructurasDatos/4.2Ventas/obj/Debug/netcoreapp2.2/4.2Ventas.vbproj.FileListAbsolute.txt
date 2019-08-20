@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\bin\Debug\netcoreapp2.2\4.2Ventas.deps.json
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\bin\Debug\netcoreapp2.2\4.2Ventas.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\bin\Debug\netcoreapp2.2\4.2Ventas.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\bin\Debug\netcoreapp2.2\4.2Ventas.dll
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\bin\Debug\netcoreapp2.2\4.2Ventas.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\obj\Debug\netcoreapp2.2\4.2Ventas.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\obj\Debug\netcoreapp2.2\4.2Ventas.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\obj\Debug\netcoreapp2.2\4.2Ventas.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\obj\Debug\netcoreapp2.2\4.2Ventas.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\obj\Debug\netcoreapp2.2\4.2Ventas.dll
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.2Ventas\obj\Debug\netcoreapp2.2\4.2Ventas.pdb

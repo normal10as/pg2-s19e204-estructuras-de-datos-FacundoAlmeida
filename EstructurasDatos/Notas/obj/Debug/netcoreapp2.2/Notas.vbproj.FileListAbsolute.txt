@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\obj\Debug\netcoreapp2.2\Notas.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\obj\Debug\netcoreapp2.2\Notas.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\obj\Debug\netcoreapp2.2\Notas.AssemblyInfoInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\obj\Debug\netcoreapp2.2\Notas.AssemblyInfo.vb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\bin\Debug\netcoreapp2.2\Notas.deps.json
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\bin\Debug\netcoreapp2.2\Notas.runtimeconfig.json
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\bin\Debug\netcoreapp2.2\Notas.runtimeconfig.dev.json
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\bin\Debug\netcoreapp2.2\Notas.dll
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\bin\Debug\netcoreapp2.2\Notas.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\obj\Debug\netcoreapp2.2\Notas.dll
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\Notas\obj\Debug\netcoreapp2.2\Notas.pdb

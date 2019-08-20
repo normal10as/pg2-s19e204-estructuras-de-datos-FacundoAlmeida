@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\bin\Debug\4.5DominioPais2.0.exe.config
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\bin\Debug\4.5DominioPais2.0.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\bin\Debug\4.5DominioPais2.0.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\bin\Debug\4.5DominioPais2.0.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\_4._5DominioPais2._0.Resources.resources
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\4.5DominioPais2.0.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\4.5DominioPais2.0.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\4.5DominioPais2.0.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\4.5DominioPais2.0.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\4.5DominioPais2.0.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.5DominioPais2.0\obj\Debug\4.5DominioPais2.0.vbprojAssemblyReference.cache
