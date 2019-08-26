@@ -1,0 +1,11 @@
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\bin\Debug\4.9 Turnos.exe.config
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\bin\Debug\4.9 Turnos.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\bin\Debug\4.9 Turnos.pdb
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\bin\Debug\4.9 Turnos.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\4.9 Turnos.vbprojAssemblyReference.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\_4._9_Turnos.Resources.resources
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\4.9 Turnos.vbproj.GenerateResource.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\4.9 Turnos.vbproj.CoreCompileInputs.cache
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\4.9 Turnos.exe
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\4.9 Turnos.xml
+C:\Users\Facu\source\repos\pg2-s19e204-estructuras-de-datos-FacundoAlmeida\EstructurasDatos\4.9 Turnos\obj\Debug\4.9 Turnos.pdb

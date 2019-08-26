@@ -19,6 +19,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4.7DominioHashTable", "4.7D
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4.8Zeverla", "4.8Zeverla\4.8Zeverla.vbproj", "{623F2E4F-C1A9-4448-A429-79F7744E45C7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "4.9 Turnos", "4.9 Turnos\4.9 Turnos.vbproj", "{FFE7FD19-8577-4840-9402-6DBFFA237C82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{623F2E4F-C1A9-4448-A429-79F7744E45C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{623F2E4F-C1A9-4448-A429-79F7744E45C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{623F2E4F-C1A9-4448-A429-79F7744E45C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE7FD19-8577-4840-9402-6DBFFA237C82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE7FD19-8577-4840-9402-6DBFFA237C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE7FD19-8577-4840-9402-6DBFFA237C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE7FD19-8577-4840-9402-6DBFFA237C82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
